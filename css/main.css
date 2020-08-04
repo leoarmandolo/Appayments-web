@@ -1,0 +1,75 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header{
+    padding-top: 130px;
+}
+
+header h1{
+    font-style: italic;
+}
+
+.Frase{
+    background-color: #5b8c5a;
+    color: #fff;
+}
+
+.Frase p{
+ font-style: italic;
+}
+
+#About h1{
+    font-style: italic;
+}
+
+#Titulo-beneficios{
+    background-color: #dd2c00;
+    color: white;
+    font-style: italic;
+}
+
+.Beneficios-icon h2{
+    font-style: italic;
+}
+
+.Beneficios-icon2 h2{
+    font-style: italic;
+}
+
+.team h2{
+    font-style: italic;
+}
+
+.team h3{
+    font-style: italic;
+}
+
+.Frase2{
+    background-color: #5b8c5a;
+    color: #fff;
+}
+
+.Frase2 p{
+ font-style: italic;
+}
+
+#contacto h2{
+    font-style: italic;
+}
+
+.terminos_y_condiciones{
+	padding-top: 80px;
+  padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 20px;
+	font-size: 10px;
+}
+
+.terminos_y_condiciones h2{
+	font-size: 11px;
+}
+
+.terminos_y_condiciones h1{
+	font-size: 12px;
+}
